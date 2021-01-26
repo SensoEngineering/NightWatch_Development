@@ -4,7 +4,7 @@ KOERI REGIONAL EARTHQUAKE-TSUNAMI MONITORING CENTER
                                                         Magnitude
 Date       Time      Latit(N)  Long(E)   Depth(km)     MD   ML   Mw    Region
 ---------- --------  --------  -------   ----------    ------------    -----------
-2019.09.26 10:59:24  40.8468   28.3697       18.1      -.-  5.7  -.-   Test Location                                     Quick
+2019.09.26 10:59:24  40.8468   28.3697       18.1      -.-  5.7  -.-   Test Location                                      Quick
 2020.12.27 04:26:54  38.3232   30.5827       10.9      -.-  2.3  -.-   KARAADILLI-SUHUT (AFYONKARAHISAR)                 Quick
 2020.12.27 04:17:24  37.8958   26.6493        8.1      -.-  1.7  -.-   AEGEAN SEA                                        Quick
 2020.12.27 03:37:35  39.7253   27.7180        8.4      -.-  3.0  -.-   TURPLU-(BALIKESIR)                                Quick
