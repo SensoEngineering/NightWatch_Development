@@ -4,7 +4,7 @@ KOERI REGIONAL EARTHQUAKE-TSUNAMI MONITORING CENTER
                                                         Magnitude
 Date       Time      Latit(N)  Long(E)   Depth(km)     MD   ML   Mw    Region
 ---------- --------  --------  -------   ----------    ------------    -----------
-2021.04.14 11:33:56  41.1112   30.3492       11.1      -.-  5.0  -.-   TEST LOCATION                                     Quick
+2021.04.18 04:33:22  40.7365   28.7005        7.0      -.-  3.6  -.-   Armutlu Yalova                                    Quick
 2020.12.27 04:26:54  38.3232   30.5827       10.9      -.-  2.3  -.-   KARAADILLI-SUHUT (AFYONKARAHISAR)                 Quick
 2020.12.27 04:17:24  37.8958   26.6493        8.1      -.-  1.7  -.-   AEGEAN SEA                                        Quick
 2020.12.27 03:37:35  39.7253   27.7180        8.4      -.-  3.0  -.-   TURPLU-(BALIKESIR)                                Quick
