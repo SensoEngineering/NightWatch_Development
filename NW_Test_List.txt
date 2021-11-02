@@ -4,7 +4,7 @@ KOERI REGIONAL EARTHQUAKE-TSUNAMI MONITORING CENTER
                                                         Magnitude
 Date       Time      Latit(N)  Long(E)   Depth(km)     MD   ML   Mw    Region
 ---------- --------  --------  -------   ----------    ------------    -----------
-2021.10.27 06:17:20  40.5700   30.8400        4.2      -.-  3.0  3.0   Dokurcun, SAKARYA                                 Quick
+2021.10.27 06:17:20  40.5700   30.8400        4.2      -.-  4.0  4.0   Dokurcun, SAKARYA                                 Quick
 2020.12.27 04:26:54  38.3232   30.5827       10.9      -.-  2.3  -.-   KARAADILLI-SUHUT (AFYONKARAHISAR)                 Quick
 2020.12.27 04:17:24  37.8958   26.6493        8.1      -.-  1.7  -.-   AEGEAN SEA                                        Quick
 2020.12.27 03:37:35  39.7253   27.7180        8.4      -.-  3.0  -.-   TURPLU-(BALIKESIR)                                Quick
