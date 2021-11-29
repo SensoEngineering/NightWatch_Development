@@ -4,7 +4,7 @@ KOERI REGIONAL EARTHQUAKE-TSUNAMI MONITORING CENTER
                                                         Magnitude
 Date       Time      Latit(N)  Long(E)   Depth(km)     MD   ML   Mw    Region
 ---------- --------  --------  -------   ----------    ------------    -----------
-2021.11.17 12:40:15  40.8413   31.0310        7.4      -.-  5.2  4.9   ISLAHIYE                                          Quick
+2021.11.17 12:40:15  40.8413   31.0310        7.4      -.-  5.2  4.9   ISLAHIYE-(DUZCE)                                  Quick
 2020.12.27 03:27:18  40.7675   27.2733       17.6      -.-  1.7  -.-   GUZELKOY-SARKOY (TEKIRDAG)                        Quick
 2020.12.27 03:01:44  37.9305   27.0240        5.9      -.-  1.4  -.-   KUSADASI KORFEZI (AEGEAN SEA)                     Quick
 2020.12.27 02:33:11  37.8238   27.0325       23.3      -.-  1.1  -.-   KUSADASI KORFEZI (AEGEAN SEA)                     Quick
