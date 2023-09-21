@@ -4,12 +4,12 @@ KOERI REGIONAL EARTHQUAKE-TSUNAMI MONITORING CENTER
                                                         Magnitude
 Date       Time      Latit(N)  Long(E)   Depth(km)     MD   ML   Mw    Region
 ---------- --------  --------  -------   ----------    ------------    -----------
-2022.04.12 01:10:20  38.1125   38.5835        2.6      -.-  1.6  -.-   ARIKONAK-SINCIK (ADIYAMAN)                        Quick
-2022.04.11 22:30:04  39.2985   25.9218        6.8      -.-  2.4  -.-   MIDILLI ADASI (AEGEAN SEA)                        Quick
-2022.04.11 21:38:04  37.0138   28.3955        4.2      -.-  1.6  -.-   SIRINKOY-ULA (MUGLA)                              Quick
-2022.04.11 21:27:00  37.0673   28.3480        2.8      -.-  1.2  -.-   AKYAKA-ULA (MUGLA)                                Quick
-2022.04.11 21:21:04  39.6880   40.6277        6.7      -.-  2.1  -.-   KALECIK-TERCAN (ERZINCAN)                         Quick
-2022.04.11 20:50:26  37.0140   28.4235        7.1      -.-  1.4  -.-   CITLIK-ULA (MUGLA)                                Quick
+2023.02.06 03:17:32  37.1757   37.0850       10.6      -.-  4.2  -.-   FAKE1 (KAHRAMANMARAS)                             Quick
+2023.02.06 02:17:32  37.1757   37.0850       10.6      -.-  5.5  -.-   FAKE2 (KAHRAMANMARAS)                             Quick
+2023.02.06 01:42:32  37.1757   37.0850       10.6      -.-  4.5  -.-   FAKE3 (KAHRAMANMARAS)                             Quick
+2023.02.06 01:27:32  37.1757   37.0850       10.6      -.-  3.4  -.-   FAKE4 (KAHRAMANMARAS)                             Quick
+2023.02.06 01:23:32  37.1757   37.0850       10.6      -.-  5.4  5.5   FAKE5 (KAHRAMANMARAS)                             Quick
+2023.02.06 01:17:32  37.1757   37.0850       10.6      -.-  7.5  7.7   PAZARCIK (KAHRAMANMARAS)                          Quick
 2022.04.11 20:47:49  36.7937   34.6333       19.2      -.-  1.4  -.-   MEDITERRANEAN SEA (MERSIN)                        Quick
 2022.04.11 20:01:23  36.9300   27.6663        3.0      -.-  1.5  -.-   GOKOVA KORFEZI (MEDITERRANEAN SEA)                Quick
 2022.04.11 19:50:54  37.0148   28.4202        8.1      -.-  1.4  -.-   CITLIK-ULA (MUGLA)                                Quick
